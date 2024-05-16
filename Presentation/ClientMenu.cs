@@ -61,23 +61,7 @@ namespace SurveyAdo.Presentation
             {
                 Console.Write($"Enter {i+1} question: ");
                 string question = Console.ReadLine();
-            //      Console.WriteLine("Enter 1 for closed type question\n2 for open type question ");
-            // string choice = Console.ReadLine();
-            // if(choice == "1")
-            // {
-            //     Console.WriteLine("how many option do u want under this question")  ;              
-            //         int choice2 = int.Parse(Console.ReadLine());
-            //         for (int j = 0; j < choice2; j++)
-            //         {
-            //             Console.WriteLine($"Enter {j+1} option");
-            //             string option = Console.ReadLine();
-            //             questions.Add(option);
-            //         }
-            // }
-            // else if(choice == "2")
-            // {
-
-            // }
+           
                 questions.Add(question);
             }
             var surveyquestion = new RequestModelSurveyDTO(){Question = questions, Title = title };

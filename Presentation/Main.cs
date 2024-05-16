@@ -50,19 +50,8 @@ namespace SurveyAdo.Presentation
         Console.Write("Enter last name: ");
         string lastName = Console.ReadLine();
 
-        var count = 0;
-    ReEnterEmail:
-        if(count < 3)
         Console.Write("Enter email: ");
         string email = Console.ReadLine();
-
-        string emailPattern = @"@[a-zA-Z0-9.-]+(com|COM)$";
-        if (!Regex.IsMatch(email, emailPattern))
-        {
-            Console.WriteLine("invalid Email address\ntry again");
-            count++;
-            goto ReEnterEmail;
-        }
 
         Console.Write("Enter password: ");
         string password = Console.ReadLine();

@@ -1791,11 +1791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\SurveyAdo\\SurveyAdo.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\BigFile\\SurveyAdo\\SurveyAdo.csproj",
       "projectName": "SurveyAdo",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\SurveyAdo\\SurveyAdo.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\BigFile\\SurveyAdo\\SurveyAdo.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\SurveyAdo\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\BigFile\\SurveyAdo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
