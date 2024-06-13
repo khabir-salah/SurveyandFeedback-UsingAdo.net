@@ -9,6 +9,7 @@ namespace SurveyAdo.Core.Domain
 {
     public class Feedback
     {
+        string name = Guid.NewGuid().ToString();
         [RegularExpression(@"@[a-zA-Z0-9.-]+(com|COM)$", ErrorMessage = "Email must contain @gmail.com")]
         public string UserEmail {get; set;}
         [Display(Name ="Survey Title")]
