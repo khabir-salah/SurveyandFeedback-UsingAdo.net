@@ -13,7 +13,11 @@ I built this console survey application using Ado .Net and MySql as database.
 
 ###Screenshot of Landing page
 ![Dashboard!](Screenshot/welcomePage.png "welcome page")
+
+
 ###Screenshot of Admin Menu
-![Dashboard!](Screenshot/adminmenu.png " Admin menu")
+![Dash!](Screenshot/adminmenu.png " Admin menu")
+
+
 ###Screenshot of User Menu
-![Dashboard!](Screenshot/clientMenu.png " User menu")
+![Dashd!](Screenshot/clientMenu.png " User menu")
