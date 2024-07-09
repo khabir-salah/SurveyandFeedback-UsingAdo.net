@@ -12,8 +12,8 @@ I built this console survey application using Ado .Net and MySql as database.
 <\ul>
 
 ###Screenshot of Landing page
-![Dashboard!](screenshot/welcomePage.png "creating  questions in a survey Application")
+![Dashboard!](Screenshot/welcomePage.png "welcome page")
 ###Screenshot of Admin Menu
-![Dashboard!](screenshot/adminmenu.png "creating  questions in a survey Application")
+![Dashboard!](Screenshot/adminmenu.png " Admin menu")
 ###Screenshot of User Menu
-![Dashboard!](screenshot/clientMenu.png "creating  questions in a survey Application")
+![Dashboard!](Screenshot/clientMenu.png " User menu")
